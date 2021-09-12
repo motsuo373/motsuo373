@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tamotsu</h1>
+<h1>Hi 👋, I'm Sumiya</h1>
 
 ## Profile
 

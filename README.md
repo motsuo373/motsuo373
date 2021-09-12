@@ -21,8 +21,6 @@
 <br/>
 
 <h3> 📫 I used to study </h3>
-(Probably not now😢)
-<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>

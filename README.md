@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamotsu</h1>
-<h3 align="center">A Programmer living in Japan</h3>
+<h1>Hi 👋, I'm Tamotsu</h1>
 
 ## Profile
 

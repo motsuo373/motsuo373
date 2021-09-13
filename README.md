@@ -1,7 +1,6 @@
 ### Hi I'm Tamotsu!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-
-<h3>👉 Work on</h3>
+<h3>👨🏻‍💻Work on</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/>
@@ -11,7 +10,7 @@
 </a>
 
 <br/>
-<h3>👨🏻‍💻 Languages and Tools </h3>
+<h3>🤘I'm currently learning</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">

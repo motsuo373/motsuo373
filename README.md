@@ -32,8 +32,9 @@
 
 <h2>About me</h2>
 
-<a href="https://twitter.com/motsuo373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uki1x" height="30" width="40" />@motsuo373</a>
-
+<!-- <a href="https://twitter.com/motsuo373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uki1x" height="30" width="40" />@motsuo373</a> -->
+[![GitHub followers](https://img.shields.io/github/followers/motsuo373?style=social)](https://www.github.com/motsuo373)
+[![Twitter Follow](https://img.shields.io/twitter/follow/motsuo373?style=social)](https://www.twitter.com/motsuo373)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=motsuo373&count_private=true&show_icons=true" />

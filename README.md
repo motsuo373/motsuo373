@@ -1,4 +1,4 @@
-### Hi I'm Tamotsu!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hi I'm Tamotsu!
 
 <h3>👨🏻‍💻Work on</h3>
 
